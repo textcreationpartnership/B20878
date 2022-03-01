@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of peace and good-will unto all the children of the Lord against this suffering time</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20878</idno>
+            <idno type="STC">Wing C7205</idno>
+            <idno type="EEBO-CITATION">14872030</idno>
+            <idno type="OCLC">ocm 14872030</idno>
+            <idno type="VID">206118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206118)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1567:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of peace and good-will unto all the children of the Lord against this suffering time</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: 28th March, 1664. John Crook.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: creased, torn, and tightly bound, with loss of print; best copy available for photographing.</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206118:1"/>
+            <pb facs="tcp:206118:1"/>
+            <head>An EPISTLE of Peace and Good-will unto all the Children <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Lord, againſt this Suffering Time.</head>
+            <p>
+               <hi>DEar Lambs of the living God, for I know you are ſo, becauſe the Wolves are ſo greedy to deſtroy you, I have a Meſſage from the great Biſhop and Shepherd of your Souls, unto you all, and in his Fear and Name I am faithfully to deliver it.</hi>
+            </p>
+            <p>Thus ſaith the Lord, the mighty God and great Shepherd of the flocks <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ye not diſmayed with any amazement, neither be ye afraid <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe of the multitude of Wolves, and wild Beaſts of prey, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>devour you; for thus hath the Lord ſpoken unto me, ſaying, Like <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lion, or young Lion, roareth upon the prey that he hath gotten, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>not afraid though the multitudes of Shepherds cry out upon him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abaſed for all the heap of them; So ſhall the Lord of Hoſts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et down to fight for <hi>Mount Sion,</hi> and defend his Hills: L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke as the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> flutter about their Neſts; ſo ſhall the Lord of Hoſts keep, de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ive, and deliver <hi>Jeruſalem:</hi> and what-ever may come to paſs, it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only try you, but not deſtroy you; for, <hi>I will not, not, not leave you, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſake you,</hi> ſaith the Lord, but you ſhall be mine, and I will ſave <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, whoſe truſt is in me the living God, as a man ſave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his only <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it ſerveth him. But, as I have already in meaſure ſhewed you, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an is in his beſt eſtate, and the ſon of man with all his endow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Wit, Parts, Learning and Underſtanding, Streng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h and Po<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, together with all his Experiences and Obſervations (which is out <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y fear and counſel) ſo I will yet manifeſt unto you further, the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>jand helpleſneſs of man, and the ſon of man,</hi> how that he is not to be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ted of; and all, for this end, that you may ceaſe from him, and c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re lean upon his arm, neither within nor wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout, nor go down <hi>Egypt</hi> for help; for it ſhall be known, <hi>that the Egyptians are men, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in God; and their horſes fleſh, and not ſpirit.</hi> O my People, ſaith <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd, remember now what <hi>Balak</hi> King of <hi>Moab</hi> conſulted, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Balaam</hi> the ſon of <hi>Peor</hi> anſwered him from <hi>Shittim</hi> even to <hi>Gilgal,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e may know the Righteouſneſs of the Lord, and how I have ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for you from time to time, and followed you from Priſon to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſaith the Lord, with my Life and Preſence, and from Eaſt to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I have been with you, as I have called you and ſent you forth; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and by Land ye have ſeen my Wonders, according as my Provi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e hath ordered any of you; and in Sickneſs and Health I have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with you, that many of you can ſay and bear witneſs for me, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re made your weak, infirm and tender bodies, to be ſtrong, and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more hardſhip and ſufferings, than ever you could have believed <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d been able to have gone through: and alſo I have made you <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g to forſake your deareſt Relations, and to chuſe rather to be in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n Priſon with Me, than to dwell in your <hi>ceiled houſes</hi> without my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Peace in your hearts, and this you know right well.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my People, ſaith the Lord, remember theſe things, that ye <hi>may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to know me more and more, for I change not:</hi> but as I have been with you in all eſtates and conditions, ſo I will be with you unto the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd: and will bring wo and miſery upon all your Enemies, that decree <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>righteous Decrees againſt you, <hi>they ſhall not be able to bring to paſs their purpoſe,</hi> ſaith the Lord, for I will befool them, and then make their own folly to corect them; and they ſhall ſee it, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſhamed, but ſhall not be alle to help themſelves, nor deliver their own ſouls. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For you my People, ſaith the Lord, that dwell in my Fear, and give up <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll unto me, (keeping nothing back in hypocriſie) <hi>I will be with you, and in you,</hi> and your Enemies ſhall ſee you aſcend in power and great glory, as gazers upon you, but not being able to hinder you. While I am ſpeaking of it, my heart melts within me, and the Joy of my God overcomes me, only I muſt not forbear to write theſe things unto you, becauſe required thereunto by the Lord. <hi>Be ye ſtill, and ye ſhall all know him from the leaſt to the greateſt,</hi> and he will not forget any one of you, beeſt thou never ſo little, poor, and weak in thine own eyes: but the Hypocrites ſhall be bound hand and foot, ſo that all their neſts and holes ſhall not hide them, and ſhall be caſt into thick darkneſs; that as they ſhall not be able to find their hands to help themſelves, ſo ſhall they not have an eye to ſee, any way to eſcape the juſt hand and judgment of the Lord: but the upright in heart ſhall now be known in this day of tryal, who have none but the Lord alone to truſt unto, and lean up<g ref="char:EOLhyphen"/>on; theſe ſhall ſee the Salvation of God, and praiſe his holy Name, for this pure ſeparating day of his Love unto them, but of Judgment unto all the Hypocrites in <hi>Sion;</hi> my Exhortation from the Lord unto you All is, To keep low in your hearts and mind, cloſe unto his Light, that it unto the Seed of Life ye may be led in it to have your <hi>dwelling day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d night, where no evil tidings come,</hi> (as you know right well) and in this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anſomed Seed keep your Meetings, ſo will they be full of glory, un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the aſtoniſhing of all that come among you, that it may now be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>own unto all people, that we are thoſe whom the moſt High hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſen, to <hi>write his Name upon</hi> (as that City of God in which he delights <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ell) that the little Si<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er ſcatte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed upon the face of the Earth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich hath no breaſts, may now be thought upon, and that tidings of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iverance may be ſounded in her ears, in all Nations whither ſhe is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ven, that ſhe may flock as the Doves to the windows, through the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aring of the <hi>Joyful Sound,</hi> that the Mighty GOD is riſen in a poor and afflicted People in <hi>England,</hi> who cannot how to any graven Image, nor give their power unto the Beaſt, but will follow the <hi>Lamb</hi> where<g ref="char:EOLhyphen"/>ever he goeth, chuſing rather to die with him than to forſake him.</p>
+            <p>And dear Friends and Brethren, my further Exhortation to you from the Lord of Hoſts is, That you all now do live in that Truth, which you have both heard and ſpoken of to others, that ſo your union in the Life and Power may ſtand; then will you be ſtrong as Mount <hi>Sion,</hi> and an help one to another, the ſtrong taking the weak by the hand, ſaying, <hi>I feel thee, and therefore cannot leave thee behind, but muſt have thee along with me:</hi> and this will not only <hi>encreaſe your Number,</hi> but <hi>diſcourage your Enemies,</hi> when they ſee you keep your Meetings, and worſhip the God of <hi>Daniel,</hi> as at other times. And what though you are carried to Priſons by droves and ſlocks, and ſent whereſoever your Enemies have power, will not that their hour and power of darkneſs, be the hour in which the Father will glorifie himſelf? yes, it will, for the Lord hath ſpoken it: and by this ſhall all men know you are Chriſt's Diſciples; not as <hi>Judas</hi> to betray him, or deny him before men, but becauſe you love him you keep his Commandments, and they are not grievous un<g ref="char:EOLhyphen"/>to you, though men would make them ſo accord to their power by their pains and puniſhments. And I am further do declare unto You in the Name of my God, for your comfort and your Enemies torment, that he is bringing forth a Birth in you his People, which fears no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Death, for it hath in deſpight of all Deaths power, paſſed through Deaths Country and Regions, as a Conqueror (through the ſtrength of <hi>Jeſus</hi>) and is now paſſed into Life and Immortality, where it dwells ſafely in love and peace with all men, not at all fearing what they can do un<g ref="char:EOLhyphen"/>to it, having already tryed the ſtrength of him, that is the power of death, which is the Devil: and this Birth, is that which is and ſhall be more and more as an <hi>Army terrible with Banners to affright the Wicked,</hi> when they ſee that there is no Conquering by Death or Baniſhment; becauſe Death it ſelf is Conquered, <hi>by that Birth immortal, in which you dwell and inhabit.</hi> O bleſſed <hi>Birth</hi> of the Morning of the everlaſting Day of the Moſt High, Sing ye, ſing ye, and again I ſay, ſing ye the <hi>Songs</hi> of the <hi>Lamb,</hi> and rejoyce ye in the mighty <hi>God,</hi> for he lives that will Crown you, and he abides faithful that cannot deny himſelf, who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our God and Helper for ever, unto whom I am joyned with you, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom I dearly ſalute you, and embrace you all, who are faithful <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>neſſes</hi> unto the <hi>Name</hi> and <hi>Truth</hi> of the Lord, in this Trying, but not Deſtroying <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I behold <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Glorious as the Noon-Day] in deſpight of all Clouds, and Darkneſs, in the Pure promiſed Heavenly Seed, in thee revealed and made ma<g ref="char:EOLhyphen"/>nifeſt, unto the endleſs praiſe of thy God, over all the World and powers of Darkneſs for evermore.</p>
+            <p>
+               <hi>Theſe Things I was commanded to write unto you, in the opening Spirit of Life, where I am with you all, in the meek Suffering Spirit of the Lamb, who am now in outward Bonds (though in perfect inward Freedom) for the Name and Teſtimony of JESUS.</hi>
+            </p>
+            <closer>
+               <signed>Your Brother and Companion in the Faith and Patience of the Lamb; <hi>JOHN CROOK.</hi>
+               </signed>
+               <dateline>Ipſwitch <hi>Town Goal,</hi>
+                  <date>
+                     <hi>this</hi> 28th <hi>of the third Month,</hi> 1664.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Let this be read in the pure Fear of the Lord, in the Aſſemblies of the Firſt-born.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
